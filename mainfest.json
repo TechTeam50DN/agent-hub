@@ -1,0 +1,19 @@
+{
+  "name": "50 Degrees North Agent Hub",
+  "short_name": "AgentHub",
+  "description": "A portal for agents to stay up to date with all things 50 Degrees North related.",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#007aff",
+  "icons": [
+    {
+      "src": "https://cdn.prod.website-files.com/67ca59022fc6c8f3573efc38/67d3ba0615d9452646a852d4_AGENT%20HUB.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "scope": "/",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}

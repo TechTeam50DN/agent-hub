@@ -2,10 +2,10 @@
   "name": "50 Degrees North Travel Advisor Hub",
   "short_name": "Travel Advisor Hub",
   "description": "A portal for agents to stay up to date with all things 50 Degrees North related.",
-  "start_url": "/",
+  "start_url": "https://agenthub.fiftydegreesnorth.com",
   "display": "fullscreen",
   "background_color": "#ffffff",
-  "theme_color": "#fffff",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "https://cdn.prod.website-files.com/67ca59022fc6c8f3573efc38/67eb5c1b14e68f1665457043_TRAVEL%20ADVISOR%20HUB.png",
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "scope": "/",
+  "scope":  "https://agenthub.fiftydegreesnorth.com",
   "orientation": "portrait-primary",
   "prefer_related_applications": false
   
